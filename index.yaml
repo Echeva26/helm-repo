@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  chartcdps:
+  - apiVersion: v1
+    created: "2024-01-16T18:33:11.869518818Z"
+    description: My Helm Chart
+    digest: 01661bf9bfa0e77555ab4e99a0c34bcf3e48b21ba08e05d5c02260cef518e54e
+    name: chartcdps
+    type: application
+    urls:
+    - https://Echeva26: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@github.io/helm-repo/chartcdps-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-01-16T18:33:11.868967201Z"
